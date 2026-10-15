@@ -12,6 +12,8 @@ I'm currently learning the fundamentals of programming and exploring web develop
 
 I believe that every project is an opportunity to learn something new.
 
+I wanna study abroad, my major is Computer Sciences.
+
 ---
 
 ###  About Me
@@ -120,7 +122,7 @@ I'm always open to learning, sharing ideas, and connecting with people who enjoy
 ---
 
 <p align="center">
-  <i>"Great things are built one line of code at a time."</i>
+  <i>"i have to do this."</i>
 </p>
 
 <p align="center">
