@@ -19,7 +19,7 @@ I believe that every project is an opportunity to learn something new.
 ```javascript
 class Developer {
   constructor() {
-    this.name = "Brenno";
+    this.name = "shiizeetsu";
     this.location = "Brazil 🇧🇷";
     this.role = "Aspiring Developer";
 
