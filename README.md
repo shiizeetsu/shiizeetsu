@@ -80,8 +80,8 @@ I'm using personal projects to turn what I learn into practical experience.
 ### 📊 GitHub Statistics
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shiizeetsu&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiizeetsu&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
 </p>
 
 ### 🏆 GitHub Achievements
