@@ -1,10 +1,10 @@
-# Hey! I'm shiizeetsu 👋
+# Hey! I'm shiizeetsu 
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&width=500&lines=Aspiring+Full-Stack+Developer;Learning+by+Building;Exploring+Web+%26+Game+Development" alt="Typing SVG" />
 </p>
 
-**🇧🇷 Brazilian | 💻 Aspiring Developer | 🚀 Lifelong Learner**
+**🇧🇷 Brazilian |  Aspiring Developer |  Lifelong Learner**
 
 I'm a beginner developer passionate about technology, programming, and building things from scratch.
 
@@ -57,46 +57,46 @@ These are technologies I'm learning or exploring.
   <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark" alt="Technologies and tools" />
 </p>
 
-### 📚 Currently Learning
+###  Currently Learning
 
-- 🌐 Building the foundations of web development with HTML and CSS.
-- ⚡ Learning JavaScript and programming fundamentals.
-- 🐍 Exploring Python and problem-solving.
-- 🔧 Practicing Git and GitHub to manage my projects.
-- 🧠 Improving my logical thinking through hands-on practice.
+-  Building the foundations of web development with HTML and CSS.
+-  Learning JavaScript and programming fundamentals.
+-  Exploring Python and problem-solving.
+-  Practicing Git and GitHub to manage my projects.
+-  Improving my logical thinking through hands-on practice.
 
-### 🚀 Projects
+###  Projects
 
 I'm using personal projects to turn what I learn into practical experience.
 
 | Project | Description | Status |
 |---|---|---|
-| 🌐 Web Projects | Small websites to practice HTML, CSS, and JavaScript. | Learning |
-| 🌎 Earthquake Monitor | An idea for an earthquake monitoring project with alerts. | Planned |
-| 🎮 Game Development | Exploring game development and interactive experiences. | Exploring |
+|  Web Projects | Small websites to practice HTML, CSS, and JavaScript. | Learning |
+|  Earthquake Monitor | An idea for an earthquake monitoring project with alerts. | Planned |
+|  Game Development | Exploring game development and interactive experiences. | Exploring |
 
 *Project descriptions and statuses will evolve as I build and publish more work.*
 
-### 📊 GitHub Statistics
+###  GitHub Statistics
 
 <p align="left">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=shiizeetsu&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiizeetsu&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
 </p>
 
-### 🏆 GitHub Achievements
+###  GitHub Achievements
 
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=shiizeetsu&theme=darkhub&no-frame=true&no-bg=true&column=4" alt="GitHub profile trophies" />
 </p>
 
-### 📈 Contribution Activity
+###  Contribution Activity
 
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity graph" />
 </p>
 
-### 🎯 My Goals
+###  My Goals
 
 - [ ] Strengthen my programming fundamentals.
 - [ ] Build and publish my first complete web projects.
@@ -107,7 +107,7 @@ I'm using personal projects to turn what I learn into practical experience.
 - [ ] Contribute to open-source projects.
 - [ ] Grow into a Full-Stack Developer.
 
-### 🤝 Let's Connect
+###  Let's Connect
 
 <p align="left">
   <a href="https://github.com/shiizeetsu">
