@@ -14,7 +14,7 @@ I believe that every project is an opportunity to learn something new.
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
 ```javascript
 class Developer {
@@ -49,7 +49,7 @@ const me = new Developer();
 me.sayHello();
 ```
 
-### 🛠️ Technologies & Tools
+###  Technologies & Tools
 
 These are technologies I'm learning or exploring.
 
