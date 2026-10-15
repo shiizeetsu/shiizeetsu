@@ -1,4 +1,4 @@
-# Hey! I'm Brenno 👋
+# Hey! I'm shiizeetsu 👋
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&width=500&lines=Aspiring+Full-Stack+Developer;Learning+by+Building;Exploring+Web+%26+Game+Development" alt="Typing SVG" />
@@ -87,7 +87,7 @@ I'm using personal projects to turn what I learn into practical experience.
 ### 🏆 GitHub Achievements
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&no-bg=true&column=4" alt="GitHub profile trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shiizeetsu&theme=darkhub&no-frame=true&no-bg=true&column=4" alt="GitHub profile trophies" />
 </p>
 
 ### 📈 Contribution Activity
