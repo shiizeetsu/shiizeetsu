@@ -110,7 +110,7 @@ I'm using personal projects to turn what I learn into practical experience.
 ### 🤝 Let's Connect
 
 <p align="left">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/shiizeetsu">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
